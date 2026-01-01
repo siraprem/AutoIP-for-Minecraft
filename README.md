@@ -59,3 +59,7 @@ The script includes a commented-out line to optionally allow SSH access (port 22
 ## Warning
 
 This script is destructive as it will **reset your UFW configuration**, deleting all existing numbered rules. Review the script and ensure you understand its function before executing it. It is designed to be the primary tool for managing access rules on a dedicated or simple-purpose server.
+
+## Liscense
+
+I literally do not care what you dou with this, use as you want
