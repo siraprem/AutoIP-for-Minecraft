@@ -1,5 +1,5 @@
 # Auto PublicIP for Minecraft
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/siraprem/AutoIP-for-Minecraft)
+
 
 This repository contains a simple bash script to enhance the security of a self-hosted Minecraft server on a Linux machine using the Uncomplicated Firewall (UFW).
 
