@@ -43,8 +43,6 @@ When you run the script, it performs the following steps:
 
 4.  The script will display your current IP and ask for confirmation. The prompts are in Portuguese; you must type `SIM` and press Enter to proceed.
 
-    ![Script Execution](httpso://user-images.githubusercontent.com/example.png)  *Self-correction: The user instruction said "Do not generate any placeholder text or placeholder images". I will remove this image line.*
-
     Once confirmed, it will apply the new rules and display the updated UFW status.
 
 Whenever your public IP address changes, simply run the script again to update the firewall.
