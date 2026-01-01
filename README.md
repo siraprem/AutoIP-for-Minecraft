@@ -62,4 +62,4 @@ This script is destructive as it will **reset your UFW configuration**, deleting
 
 ## Liscense
 
-I literally do not care what you dou with this, use as you want
+I literally do not care what you do with this, use as you want
